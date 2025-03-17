@@ -15,7 +15,10 @@ body {
 	-webkit-transition:top 0.3s;
 	transition:top 0.3s;
 }
-
+img{
+    max-width: 50vw;
+    height: auto;
+}
 .header-fixed .header-limiter {
 	max-width: 1200px;
 	text-align: center;
